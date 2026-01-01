@@ -141,7 +141,7 @@ Example Playbook
         dump: 0
         passno: 2
   roles:
-    - ricsanfre.storage
+    - tsengel.storage
 ```
 License
 -------
@@ -151,7 +151,7 @@ MIT/BSD
 Author Information
 ------------------
 
-Ricardo Sanchez (ricsanfre)
+Tsengel (tsengel)
 
 ## Author Information
 
