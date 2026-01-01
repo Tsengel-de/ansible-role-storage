@@ -1,19 +1,18 @@
 galaxy_info:
-  role_name: storage
-  author: Tsengel-de
+  author: tsengel-de
+  namespace: tsengel-de
   description: Manage storage role
   license: MIT
   min_ansible_version: '2.9'
   platforms:
-  - name: Ubuntu
-    versions:
-    - focal
-    - xenial
-    - bionic
+    - name: Ubuntu
+      versions:
+        - focal
+        - xenial
+        - bionic
   galaxy_tags:
-  - system
-  - disk
-  - lvm
-  - parted
-  namespace: Tsengel-de
+    - system
+    - disk
+    - lvm
+    - parted
 dependencies: []
